@@ -12,20 +12,20 @@
 ---
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **3rd year UnderGrad Student🎓 [@ B. P. Poddar Institute of Management and Technology](https://bppimt.ac.in/)** majoring in Information Technology. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a 4th year UnderGrad Student🎓. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently UnderGrad student at **[@B. P. Poddar Institute of Management and Technology](https://bppimt.ac.in/)**
+- 🔭 Aspiring Software Engineer with a demonstrated foundation in Information Technology and hands-on experience in software development. Skilled in C++, Java, Python (Basics), Object-Oriented Programming, Data Structures & Algorithms, DBMS, Operating Systems, and Web Technologies. Experienced in academic projects, problem-solving and collaborative team-based environments. Active on coding platforms, consistently honing problem-solving skills. Focused on building efficient, reliable and scalable solutions while continuously expanding technical expertise. Passionate about exploring the internet and software industry.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Curious about
-  - 📊 Machine Learning & AI
+  - 📊 AI
   - 🖼 Web & App Technologies
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making web projects
 - 📙 Check out my [Resume](ttps://www.linkedin.com/in/maahiagarwal07/)
-- 🎉 Fun-Fact: I ❤️ travelling and watch a lot Movies🎬
+- 🎉 Fun-Fact: I ❤️ travelling and watch Movies🎬
 
 ---
 
