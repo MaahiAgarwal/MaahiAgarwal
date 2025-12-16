@@ -22,7 +22,7 @@ I'm a 4th year UnderGrad Student🎓. I'm a **Tech Enthusiast 💻 😃** passio
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Curious about
   - 📊 AI
   - 🖼 Web & App Technologies
-- 📝 I write technical blogs and articles.Read more at: https://Maahiagarwal.hashnode.dev 
+- 📝 I write technical blogs and articles.Read more at:[ https://Maahiagarwal.hashnode.dev](https://hashnode.com/@Maahiagarwal) 
 - 👯 I’m looking to collaborate on making web projects
 - 📙 Check out my [Resume](ttps://www.linkedin.com/in/maahiagarwal07/)
 - 🎉 Fun-Fact: I ❤️ travelling and watch Movies🎬
