@@ -1,5 +1,5 @@
 
-<h1>Hello ! I am <a href="https://github.com/Defcon27">Maahi</a> <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></h1>
+<h1>Hello ! I am <a href="https://github.com/Defcon27">Maahi</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Developer.gif" width="45" /></h1>
 </h1>
 
 
@@ -11,27 +11,25 @@
 
 ---
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a 4th year UnderGrad Student🎓. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
 
----
-
-### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Developer.gif" width="45" /> About Me:
-
-- 🔭 Aspiring Software Engineer with a demonstrated foundation in Information Technology and hands-on experience in software development. Skilled in C++, Java, Python (Basics), Object-Oriented Programming, Data Structures & Algorithms, DBMS, Operating Systems, and Web Technologies. Experienced in academic projects, problem-solving and collaborative team-based environments. Active on coding platforms, consistently honing problem-solving skills. Focused on building efficient, reliable and scalable solutions while continuously expanding technical expertise. Passionate about exploring the internet and software industry.
+- 🎓 I'm a 4th year UnderGrad aspiring Software Engineer student with a demonstrated foundation in Information Technology and hands-on experience in software development. Skilled in C++, Java, SQL, Python (Basics), Object-Oriented Programming, Data Structures & Algorithms, DBMS, Operating Systems, and Web Technologies. Experienced in academic projects, problem-solving and collaborative team-based environments. Active on coding platforms, consistently honing problem-solving skills. Focused on building efficient, reliable and scalable solutions while continuously expanding technical expertise. Passionate about exploring the internet and software industry.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Curious about
   - 📊 AI
-  - 🖼 Web & App Technologies
-- 📝 I write technical blogs and articles. Read more at:[ https://Maahiagarwal.hashnode.dev](https://hashnode.com/@Maahiagarwal) 
+  - 🖼 Web Technologies
+- 📝 I write technical blogs and articles. Visit [Hashnode](https://hashnode.com/@Maahiagarwal) to read more.
 - 👯 I’m looking to collaborate on making web projects
 - 📙 Check out my [Resume](ttps://www.linkedin.com/in/maahiagarwal07/)
-- 🎉 Interests: I ❤️ travelling and watch Movies🎬
+- ❤️ Interests: I like to travel and watch movies 🎬
 
 ---
 
 ### ⚙️ Some Tool and Tech I use
+<code><img height="30" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c/c.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img width="30" height="35" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg"></code>
+<code><img width="30" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c/c.svg"></code>
-<code><img width="30" height="35" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg"></code>
+<code><img width="30" height="35" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/javascript/javascript.svg"></code>
+<code><img width="30" height="35" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/refs/heads/main/language_and_tools/square/figma/figma.svg"></code>
