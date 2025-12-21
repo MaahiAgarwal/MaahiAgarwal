@@ -20,7 +20,7 @@
 - 📝 I write technical blogs and articles. Visit [Hashnode](https://hashnode.com/@Maahiagarwal) to read more.
 - 👯 I’m looking to collaborate on making web projects
 - 📙 Check out my [Resume](ttps://www.linkedin.com/in/maahiagarwal07/)
-- ❤️ Interests: I like to travel and watch movies 🎬
+- ❤️ Interests: Graphic Designing, Painting, Travelling and Watching Movies
 
 ---
 
