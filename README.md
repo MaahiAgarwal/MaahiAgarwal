@@ -13,7 +13,7 @@
 
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
 
-- 🎓 I'm a 4th year UnderGrad aspiring Software Engineer student with a demonstrated foundation in Information Technology and hands-on experience in software development. Skilled in C++, Java, SQL, Python (Basics), Object-Oriented Programming, Data Structures & Algorithms, DBMS, Operating Systems, and Web Technologies. Experienced in academic projects, problem-solving and collaborative team-based environments. Active on coding platforms, consistently honing problem-solving skills. Focused on building efficient, reliable and scalable solutions while continuously expanding technical expertise. Passionate about exploring the internet and software industry.
+- 🎓 I'm an aspiring Software Engineer with a demonstrated foundation in Information Technology and hands-on experience in software development. Skilled in C++, Java, SQL, Python (Basics), Object-Oriented Programming, Data Structures & Algorithms, DBMS, Operating Systems, and Web Technologies. Experienced in academic projects, problem-solving and collaborative team-based environments. Active on coding platforms, consistently honing problem-solving skills. Focused on building efficient, reliable and scalable solutions while continuously expanding technical expertise. Passionate about exploring the internet and software industry.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Curious about
   - 📊 AI
   - 🖼 Web Technologies
